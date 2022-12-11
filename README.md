@@ -3,4 +3,4 @@ Implements t9 predictive text, which is a text mode that allows users to type us
 
 Author: Chloe Hu
 Date: 12/05/22
-Status: tested on dictionary.txt
+Status: tested
